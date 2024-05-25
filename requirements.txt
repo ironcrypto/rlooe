@@ -1,0 +1,14 @@
+tabulate
+tensorboardx
+gym==0.21.0
+numpy
+ray[default]==1.6.0
+sortedcontainers==2.4.0
+pandas
+dm_tree
+scipy
+lz4
+pyzmq
+scikit-image
+matplotlib
+tqdm
